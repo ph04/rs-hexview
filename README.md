@@ -5,12 +5,12 @@ In `src/main.rs` you can find the source of the program, which uses **StructOpt*
 
 `hexview.exe --input [INPUT FILE PATH]`. Optional `-c` to color the output as follows:
 
-GREY: null byte;
+**GREY**: null byte;
 
-ORANGE: non-printable characters;
+**ORANGE**: non-printable characters;
 
-LIGHT GREEN: printable characters;
+**LIGHT GREEN**: printable characters;
 
-DARK GREEN: printable in the extended ASCII range;
+**PURPLE**: non-printable characters in the extended ASCII range.
 
-PURPLE: non-printable characters in the extended ASCII range.
+**DARK GREEN**: printable in the extended ASCII range;
