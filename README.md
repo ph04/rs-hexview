@@ -7,6 +7,8 @@ Example of usage:
 `hexview.exe --input [INPUT FILE PATH]`.
 
 
+
+
 Optional `-c` to color the output as follows:
 
 **GREY**: null byte;
