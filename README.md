@@ -17,6 +17,6 @@ Optional `-c` to color the output as follows:
 
 **LIGHT GREEN**: printable characters;
 
-**PURPLE**: non-printable characters in the extended ASCII range.
+**PURPLE**: non-printable characters in the extended ASCII range;
 
-**DARK GREEN**: printable in the extended ASCII range;
+**DARK GREEN**: printable in the extended ASCII range.
