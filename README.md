@@ -1,2 +1,11 @@
 # rs-hexview
 A CLI hexviewer written in Rust.
+
+In `src/main.rs` you can find the source of the program, which uses **StructOpt** to parse line arguments, and **ansi_term** to color the output with the `-c` flag.
+
+`hexview.exe --input [INPUT FILE PATH]`. Optional `-c` to color the output as follows: 
+GREY: null byte;
+ORANGE: non-printable characters;
+LIGHT GREEN: printable characters;
+DARK GREEN: printable in the extended ASCII range;
+PURPLE: non-printable characters in the extended ASCII range.
