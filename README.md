@@ -7,7 +7,7 @@ Example of usage:
 
 `hexview.exe --input [INPUT FILE PATH]`
 
-![alt text](https://i.imgur.com/OCz3JDV.jpg)
+![alt text](https://raw.githubusercontent.com/ph04/rs-hexview/master/example.jpg)
 
 Optional `-c` to color the output as follows:
 
