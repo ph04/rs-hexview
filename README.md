@@ -5,7 +5,8 @@ In `src/main.rs` you can find the source of the program, which uses **StructOpt*
 
 Example of usage:
 `hexview.exe --input [INPUT FILE PATH]`
-`hexview.exe --input [INPUT FILE PATH] -c`
+
+![alt text](https://drive.google.com/open?id=1lkLMVvDGNipIQp3RW1cv5BR3WpctaV8r)
 
 Optional `-c` to color the output as follows:
 
