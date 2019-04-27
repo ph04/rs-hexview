@@ -9,7 +9,7 @@ Example of usage:
 
 ![alt text](https://raw.githubusercontent.com/ph04/rs-hexview/master/example.jpg)
 
-Optional `-c` to color the output as follows:
+Optional `-c` flag to color the output as follows:
 
 **GREY**: null byte;
 
