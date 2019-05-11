@@ -20,3 +20,6 @@ Optional `-c` flag to color the output as follows:
 **PURPLE**: non-printable characters in the extended ASCII range;
 
 **DARK GREEN**: printable in the extended ASCII range.
+
+# License
+This project is under the GNU GPLv3 license.
