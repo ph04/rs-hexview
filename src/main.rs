@@ -12,7 +12,7 @@ struct Hex {
 }
 
 impl Hex {
-    fn new<T: AsRef<Path>>(file: T, color_flag: bool) -> io::Result<Self> { //check documentation for reference
+    fn new<T: AsRef<Path>>(file: T, color_flag: bool) -> io::Result<Self> {
         let content = fs::read(file)?;
         
         Ok(Self {
