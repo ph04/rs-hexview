@@ -2,7 +2,7 @@
 name = "rs-hexview"
 version = "0.1.0"
 authors = ["Alessio Bandiera <alessio.bandiera02@gmail.com>"]
-edition = "2019"
+edition = "2018"
 
 [dependencies]
 ansi_term = "0.11.0"
